@@ -35,12 +35,12 @@ Loads the content of the memory cell at address specified by offset and base in 
 # Notes
 https://edumips64.readthedocs.io/en/latest/instructions.html
 
-r0:		zero register
-r4:		result cipher
-r9:		logical value
-r11:	character index in cipher and xlogin
-r22:	numbers(97, 26, ..)
-r25:	bool value of the next state
+- r0:		zero register
+- r4:		result cipher
+- r9:		logical value
+- r11:	character index in cipher and xlogin
+- r22:	numbers(97, 26, ..)
+- r25:	bool value of the next state
 
 # Debugging
 `java -jar edumips64-1.2.10.jar -f xhubin04.x 
