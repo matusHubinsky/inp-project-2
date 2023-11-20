@@ -1,7 +1,7 @@
-## Result
+# Result
 - points: **15/15**
 
-# Instructions:
+# Instructions
 **AND** rd, rs, rt
 Executes a bitwise AND between rs and rt, and puts the result into rd.
 
